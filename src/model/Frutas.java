@@ -23,6 +23,12 @@ public class Frutas {
 	public Frutas () {
 		
 	}
+	
+	public Frutas (int id, String nomeFruta, double precoFruta) {
+		this.id = id;
+		this.nomeFruta = nomeFruta;
+		this.precoFruta = precoFruta;
+	}
 
 	//GETTERS E SETTERS
 	public int getId() {

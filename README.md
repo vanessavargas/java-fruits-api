@@ -13,6 +13,6 @@ Revisão de Java em monitoria
 - Herança e poliformismo
 
 ### Java acesso e manipulação de dados
-
+- CRUD (Create, Readme, Update e Delete), com MySQL, usando JDBC
 
 ###### Sugestão playlist: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW

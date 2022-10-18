@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Revisão de Java em monitoria
+Revisão de Java em monitoria - desenvolvimento do CRUD com base de dados no MySQL.
 
 ### Java fundamentos
 

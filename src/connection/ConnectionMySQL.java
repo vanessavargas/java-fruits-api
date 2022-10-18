@@ -21,7 +21,7 @@ public class ConnectionMySQL {
 		Connection con = createConnectionMySQL();
 		
 		if (con!= null) {
-			System.out.println(con + "\n Conexão OK!");
+			System.out.println(con + "\n\nConexão OK!");
 			con.close();
 		}
 	}

@@ -14,5 +14,8 @@ Revisão de Java em monitoria
 
 ### Java acesso e manipulação de dados
 - CRUD (Create, Readme, Update e Delete), com MySQL, usando JDBC
+- Passo-a-passo para inserir o conector no projeto:
+Clique com o botão direito em cima do nome do projeto e vá seguindo o caminho: 
+	- Build Path -> Configure Build Path -> Selecionar Classpath -> Clicar em Add External JARs... -> Procurar em seu computador o conector _mysql-connector-java-8.0.30_  e selecioná-lo -> Para finalizar, clicar em Apply and Close
 
-###### Sugestão playlist: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+###### Sugestão playlist - curso Java: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW

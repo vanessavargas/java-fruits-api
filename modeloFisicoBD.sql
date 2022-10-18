@@ -1,0 +1,9 @@
+CREATE DATABASE fruteira;
+
+USE fruteira;
+
+CREATE TABLE citricas (
+id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
+nomeFruta VARCHAR (20),
+precoFruta VARCHAR (20)
+);

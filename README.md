@@ -1,6 +1,6 @@
 # Projeto de monitoria
 
-Revisão de Java em monitoria - desenvolvimento do CRUD com base de dados no MySQL. Repositório foi criado para fins de estudos durante o programa Recode Pro, em Outubro de 2022.
+Revisão de Java em monitoria - desenvolvimento do CRUD com base de dados no MySQL. Repositório criado para fins de estudos durante o programa Recode Pro, em Outubro de 2022.
 
 ### Java fundamentos
 

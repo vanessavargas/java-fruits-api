@@ -1,6 +1,6 @@
-# Sobre o projeto
+# Projeto de monitoria - Java
 
-Revisão de Java em monitoria - desenvolvimento do CRUD com base de dados no MySQL.
+Revisão de Java em monitoria - desenvolvimento do CRUD com base de dados no MySQL. Repositório criado para fins de estudos durante o programa Recode Pro, em Outubro de 2022.
 
 ### Java fundamentos
 
@@ -19,3 +19,6 @@ Clique com o botão direito em cima do nome do projeto e vá seguindo o caminho:
 	- Build Path -> Configure Build Path -> Selecionar Classpath -> Clicar em Add External JARs... -> Procurar em seu computador o conector _mysql-connector-java-8.0.30_  e selecioná-lo -> Para finalizar, clicar em Apply and Close
 
 ###### Sugestão playlist - curso Java: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+
+<hr>
+Feito com ❤️ por VanessaVargas

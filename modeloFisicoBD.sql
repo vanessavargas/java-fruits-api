@@ -1,9 +1,4 @@
-CREATE DATABASE fruteira;
+create DATABASE dbusuario;
 
-USE fruteira;
+use dbusuario;
 
-CREATE TABLE citricas (
-id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
-nomeFruta VARCHAR (20),
-precoFruta VARCHAR (20)
-);

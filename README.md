@@ -1,24 +1,24 @@
-# Projeto de monitoria - Java
+# Java Tutoring Project
 
-Revisão de Java em monitoria - desenvolvimento do CRUD com base de dados no MySQL. Repositório criado para fins de estudos durante o programa Recode Pro, em Outubro de 2022.
+Java review in tutoring - development of CRUD with a MySQL database. Repository created for study purposes during the Recode Pro program in October 2022.
 
-### Java fundamentos
+### Java Fundamentals
 
-- Conceitos básicos (convenções - boas práticas, variáveis, tipos de dados, operadores lógicos, condicionais e relacionais, estruturas condicionais e de repetição): https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_ao_Java/Fundamentos
+- Basic concepts (conventions - best practices, variables, data types, logical, conditional, and relational operators, conditional and loop structures): https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_ao_Java/Fundamentos
 
-	- Tipos de variáveis: https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293
+	- Variable types: https://www.devmedia.com.br/tipos-de-dados-por-valor-e-por-referencia-em-java/25293
 
-- Construtores: https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
+- Constructors: https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
 
-- Herança e poliformismo
+- Inheritance and polymorphism
 
-### Java acesso e manipulação de dados
-- CRUD (Create, Readme, Update e Delete), com MySQL, usando JDBC
-- Passo-a-passo para inserir o conector no projeto:
-Clique com o botão direito em cima do nome do projeto e vá seguindo o caminho: 
-	- Build Path -> Configure Build Path -> Selecionar Classpath -> Clicar em Add External JARs... -> Procurar em seu computador o conector _mysql-connector-java-8.0.30_  e selecioná-lo -> Para finalizar, clicar em Apply and Close
+### Java Data Access and Manipulation
+- CRUD (Create, Read, Update, and Delete) with MySQL, using JDBC
+- Step-by-step to insert the connector into the project:
+- Right-click on the project name and follow the path:
+- Build Path -> Configure Build Path -> Select Classpath -> Click Add External JARs... -> Browse on your computer for the connector mysql-connector-java-8.0.30 and select it -> To finish, click Apply and Close
 
-###### Sugestão playlist - curso Java: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+#### Playlist suggestion - Java course: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
 
 <hr>
-Feito com ❤️ por VanessaVargas
+Made with ❤️ by VanessaVargas

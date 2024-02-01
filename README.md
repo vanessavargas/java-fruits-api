@@ -19,6 +19,22 @@ Fruits API is a Java application designed for efficient management of fruit data
 - Browse your computer for the mysql-connector-java-8.0.30 connector and select it.
 - Click **Apply and Close** to finish the integration.
 
+## Project Structure
+```
+├── src
+│ ├── connection
+│ │ └── ConnectionMySQL.java
+│ ├── crud
+│ │ └── CitricasCRUD.java
+│ ├── dao
+│ │ └── CitricasDAO.java
+│ ├── model
+│ │ ├── Citricas.java
+│ │ └── Frutas.java
+│ └── Principal.java
+├── README.md
+```
+
 ### Java Fundamentals
 This project covers fundamental Java concepts, including:
 - Basic concepts (conventions - best practices, variables, data types, logical, conditional, and relational operators, conditional and loop structures): https://pt.wikiversity.org/wiki/Introdu%C3%A7%C3%A3o_ao_Java/Fundamentos

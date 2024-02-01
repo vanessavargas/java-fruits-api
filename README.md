@@ -1,6 +1,6 @@
 # Fruits API - Java
 
-A Java API for managing fruit data. It allows basic CRUD operations (Create, Read, Update, Delete) on fruit information. Developed by me  as part of my studies and utilized as a teaching tool during my role as a monitor for the Recode Pro program in October 2022. 
+Fruits API is a Java application designed for efficient management of fruit data. It facilitates basic CRUD operations (Create, Read, Update, Delete) on fruit information. 
 
 ### Technologies Used
 - Java
@@ -11,12 +11,13 @@ A Java API for managing fruit data. It allows basic CRUD operations (Create, Rea
 - CRUD operations for fruit data
 - Utilizes MySQL for data storage
 - Easy-to-follow steps for integrating the MySQL connector into the project
-- How to Integrate the MySQL Connector
+  
+### How to Integrate the MySQL Connector
 - Right-click on the project name.
-- Navigate to: Build Path -> Configure Build Path.
-- Select the Classpath and click on "Add External JARs..."
+- Navigate to: **Build Path -> Configure Build Path**.
+- Select the Classpath and click on **Add External JARs...**
 - Browse your computer for the mysql-connector-java-8.0.30 connector and select it.
-- Click "Apply and Close" to finish the integration.
+- Click **Apply and Close** to finish the integration.
 
 ### Java Fundamentals
 This project covers fundamental Java concepts, including:
@@ -27,4 +28,13 @@ This project covers fundamental Java concepts, including:
 - Constructors: https://www.devmedia.com.br/construtores-em-java-primeiros-passos/28618
 - Inheritance and polymorphism
 
-#### Playlist suggestion - Java course: https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+#### For those looking to enhance their Java skills, consider exploring this comprehensive: [Java course playlist](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)
+
+<br/>
+Feel free to suggest improvements to the project. Happy coding! 🚀
+<hr/>
+<div align="center">
+
+ Developed by Vanessa Vargas
+ 
+</div>
